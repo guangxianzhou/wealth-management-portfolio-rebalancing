@@ -49,4 +49,5 @@ WM_Portfolio_Rebalancing_Dashboard.pbix: Full Power BI model, DAX measures, and 
 
 Executive_Portfolio_Rebalancing_Report_2026.pdf: High-resolution executive presentation export.
 
-![Dashboard Preview](Screenshot%202026-09-23%20at%2021.31.08.jpg)
+<img width="995" height="560" alt="Screenshot 2026-09-23 at 21 44 44" src="https://github.com/user-attachments/assets/7d249155-a0b5-41c7-992b-c25405b7d5e6" />
+
