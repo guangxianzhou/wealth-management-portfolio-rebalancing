@@ -1,5 +1,8 @@
 # Executive Wealth Management & Portfolio Rebalancing Dashboard
 
+<img width="995" height="560" alt="Screenshot 2026-09-23 at 21 44 44" src="https://github.com/user-attachments/assets/252e6b9f-101a-49d1-8b1f-f2434957596b" />
+
+
 ## Project Overview
 This project features an institutional-grade Wealth Management Portfolio Rebalancing & Asset Allocation Dashboard developed using Microsoft Power BI and DAX. Built from the perspective of private wealth advisors and family offices, the system monitors portfolio allocation drifts relative to strategic targets, generates automated rebalancing directives, and provides position-level visibility across diverse asset classes.
 ## Dashboard Preview
@@ -48,6 +51,4 @@ Design Standards: Institutional layout, card-in-container shadow layering, Segoe
 WM_Portfolio_Rebalancing_Dashboard.pbix: Full Power BI model, DAX measures, and interactive report.
 
 Executive_Portfolio_Rebalancing_Report_2026.pdf: High-resolution executive presentation export.
-
-<img width="995" height="560" alt="Screenshot 2026-09-23 at 21 44 44" src="https://github.com/user-attachments/assets/7d249155-a0b5-41c7-992b-c25405b7d5e6" />
 
